@@ -4,6 +4,10 @@ CodeSlate is a React project built with React and deployed on Vercel. It provide
 
 Access the live version of CodeSlate at: [https://codeslate.vercel.app](https://codeslate.vercel.app)
 
+## Preview
+<img width="956" alt="image" src="https://github.com/aforaditya/CodeSlate/assets/75029064/20f4ea93-d6af-499e-970a-4b13045b5435">
+
+
 ## Features
 
 - Auto tag completion
