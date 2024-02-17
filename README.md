@@ -10,6 +10,7 @@ Access the live version of CodeSlate at: [https://codeslate.vercel.app](https://
 - Multiple frontend frameworks
 - Lighning fast preview
 - Code sharing
+- Code auto save in local storage
 
 ## Setup Instructions
 
