@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+   .custom-resize-handle {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 20px;
+      height: 20px;
+      background-color: red;
+      cursor: nwse-resize; /* Set cursor for diagonal resizing */
+      pointer-events: none;
+    }
+
+    .box{
+        position: relative;
+        width: fit-content;
+    }
+  </style>
+</head>
+<body>
+
+
+
+    <div class="box">
+        <textarea placeholder="Type here..."></textarea>
+        <div class="custom-resize-handle"></div>
+    </div>
+  
+
+
+</body>
+</html>
