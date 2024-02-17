@@ -12,6 +12,12 @@ Access the live version of CodeSlate at: [https://codeslate.vercel.app](https://
 - Code sharing
 - Code auto save in local storage
 
+## Tech Used
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ## Setup Instructions
 
 To set up CodeSlate locally, follow these steps:
