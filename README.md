@@ -47,7 +47,7 @@ To set up CodeSlate locally, follow these steps:
 5. Open your browser and go to http://localhost:5173 to view CodeSlate
 
 ## Contributing
-If you'd like to contribute to CodeSlate, please feel free to raise a pull request.
+If you'd like to contribute to CodeSlate, please feel free to for this repo and raise a pull request.
 
 
 
